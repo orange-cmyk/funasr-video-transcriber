@@ -25,6 +25,8 @@ pip install funasr torch torchaudio flask
 
 ## 使用方式
 
+> 提示：以下命令假设你已在项目根目录，并激活了虚拟环境。
+
 ### 1. 命令行离线识别
 
 ```bash
